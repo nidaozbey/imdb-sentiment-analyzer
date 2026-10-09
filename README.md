@@ -8,7 +8,7 @@ Bu projede kullanılan 50.000 yorumluk IMDB veri setine [Kaggle üzerinden burad
 ## 🖥️ Web Arayüzü (Gradio UI)
 Kullanıcıların kendi film yorumlarını test edebilmeleri için Gradio kullanılarak aşağıdaki interaktif web arayüzü tasarlanmıştır:
 
-![Uygulama Arayüzü](.png)
+![Uygulama Arayüzü](arayuz.png)
 
 ## 🧠 Proje Adımları (Pipeline)
 
